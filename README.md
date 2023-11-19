@@ -6,8 +6,7 @@
 ![Game ScreenTitle Image](./zombie_shooter.png)
 
 
-"Zombie Shooter is developed using Lua and the Love2D framework. The game draws inspiration from the TopDownShooter project featured in this [Udemy course](https://www.udemy.com/course/lua-love/). However, Zombie Shooter includes several features not covered in the course, such as:
-
+ZobmieShooter implements:
 - A fully functional State Machine
 - World boundaries to enhance gameplay
 - An intuitive Collision Detection mechanism
